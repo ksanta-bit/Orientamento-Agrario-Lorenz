@@ -6,6 +6,8 @@ IIS 8 Marzo – K. Lorenz, Mirano · anno scolastico 2026–2027.
 
 Autore: prof. Gianluca Simonetti. Dirigente scolastica: dott.ssa Roberta Gasparini.
 
+Due plessi: sede K. Lorenz e Azienda agraria. La descrizione aziendale comprende una serra calda, una serra acquaponica, un frutteto didattico, un ettaro complessivo nel primo corpo aziendale e appezzamenti esterni. La superficie degli appezzamenti esterni non è quantificata.
+
 ## Utilizzo
 
 Aprire la pagina GitHub Pages. Usare le frecce per avanzare e il comando «Proiezione / schermo intero» per presentare. Il pulsante «Indice» consente di scegliere una schermata. Tutti i filmati sono senza audio e possono essere messi in pausa.
